@@ -37,7 +37,7 @@ Development of Real-time FX Derivatives Risk Management System
 *Technologies:*
 Core Java, Spring, JUnit, MongoDB, Maven, Git, OracleDB
 
-
+---------------------------------------
 **May 2012 - May 2015: Deutsche Bank, Tech Lead**
 
 Developing a service for OLTP database with rich Java API (queries, real time updates). Database stores about 7TB of trades, 2M updates per day.
