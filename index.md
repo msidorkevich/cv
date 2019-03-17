@@ -10,6 +10,7 @@ Software Engineer.
 | <a href="https://msidorkevich.github.io/cv/">CV</a>
 </div>
 
+
 ## Experience
 
 **May 2015 - current time: Deutsche Bank, Lead Java
@@ -36,6 +37,7 @@ Development of Real-time FX Derivatives Risk Management System
 *Technologies:*
 Core Java, Spring, JUnit, MongoDB, Maven, Git, OracleDB
 
+
 **May 2012 - May 2015: Deutsche Bank, Tech Lead**
 
 Developing a service for OLTP database with rich Java API (queries, real time updates). Database stores about 7TB of trades, 2M updates per day.
@@ -50,6 +52,7 @@ Developing a service for OLTP database with rich Java API (queries, real time up
 *Technologies:*
 Core Java, Spring, JUnit4, Mockito, Maven, Tibco EMS, SQL, PL/SQL, OracleDB, Git
 
+
 **Feb 2010 – Apr 2012: Luxoft, Senior Java Developer**
 
 Work in Global Financial Foreign Exchange Trade Processing department in Deutsche Bank.
@@ -62,6 +65,7 @@ Work in Global Financial Foreign Exchange Trade Processing department in Deutsch
 *Technologies:*
 Core Java, SQL, PL/SQL, OracleDB, Perforce, XSLT, JUnit 4, Maven, Ant, Apache Tomcat, Spring, Mockito, JMS
 
+
 **Dec 2008 - Jan 2010: Rusfinance Bank, Societe Generale group, Java Developer**
 
 *Responsibilities:*
@@ -71,6 +75,7 @@ Core Java, SQL, PL/SQL, OracleDB, Perforce, XSLT, JUnit 4, Maven, Ant, Apache To
 *Technologies:*
 EJB3, Struts 1, JSP, JDBC, OracleDB, OC4J, SVN
 
+
 **Aug 2007 - Nov 2008: Vigour, Java Developer**
 
 *Responsibilities:*
@@ -78,6 +83,7 @@ EJB3, Struts 1, JSP, JDBC, OracleDB, OC4J, SVN
 
 *Technologies and instruments:*
 Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
+
 
 ## Technical Experience
 
@@ -89,6 +95,7 @@ Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 - **Databases** - have moderate experience with OracleDB and MongoDB
 - **Messanging** - have moderate experience with TibcoEMS, basic - with ActiveMQ
 - **Version control systems** - currently working with GIT, used P4, SVN, CVS in previous projects
+
 
 ## Education
 
