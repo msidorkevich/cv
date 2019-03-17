@@ -94,5 +94,5 @@ Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 
 2003 – 2009
 
-**Master, Applied Mathematics and Informatics**; Moscow Engineering Physics Institute - Department of Cybernetics
-*Thesis title: Data Synchronization between Backend and Mobile Phone via SyncML Protocol*
+**Master, Applied Mathematics and Informatics** - Moscow Engineering Physics Institute - Department of Cybernetics
+**Thesis title** - Data Synchronization between Backend and Mobile Phone via SyncML Protocol*
