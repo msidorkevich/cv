@@ -29,7 +29,7 @@ Development of Real-time FX Derivatives Risk Management System
 
 *Key achievements:*
 - All features which I developed were successfully delivered to PROD
-- Used [async-profiler] (https://github.com/jvm-profiling-tools/async-profiler) to fix memory allocation issues
+- Used <a href="https://github.com/jvm-profiling-tools/async-profiler">async-profiler</a> to fix memory allocation issues
 - Started migration to OpenJDK 11. Our product was first in the Deutsche Bank which used OpenJDK 11 in PROD
 - Engaged colleagues to start using more modern language - Kotlin
 
