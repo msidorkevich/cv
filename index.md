@@ -10,7 +10,6 @@ Software Engineer.
 | <a href="https://msidorkevich.github.io/cv/">CV</a>
 </div>
 
-
 ## Experience
 
 **May 2015 - current time: Deutsche Bank, Lead Java
@@ -80,7 +79,6 @@ EJB3, Struts 1, JSP, JDBC, OracleDB, OC4J, SVN
 *Technologies and instruments:*
 Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 
-
 ## Technical Experience
 
 - **Java** - the language I use for my day to day work. I have deep understanding of Core Java, Java Concurrency, JDBC, JMS
@@ -91,7 +89,6 @@ Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 - **Databases** - have moderate experience with OracleDB and MongoDB
 - **Messanging** - have moderate experience with TibcoEMS, basic - with ActiveMQ
 - **Version control systems** - currently working with GIT, used P4, SVN, CVS in previous projects
-
 
 ## Education
 
