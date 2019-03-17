@@ -7,7 +7,7 @@ Software Engineer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">michael.sidorkevich@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://msidorkevich.github.io/cv/">CV</a>
 </div>
 
 
@@ -80,6 +80,7 @@ EJB3, Struts 1, JSP, JDBC, OracleDB, OC4J, SVN
 *Technologies and instruments:*
 Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 
+
 ## Technical Experience
 
 - **Java** - the language I use for my day to day work. I have deep understanding of Core Java, Java Concurrency, JDBC, JMS
@@ -91,13 +92,10 @@ Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 - **Messanging** - have moderate experience with TibcoEMS, basic - with ActiveMQ
 - **Version control systems** - currently working with GIT, used P4, SVN, CVS in previous projects
 
+
 ## Education
 
 2003 – 2009
 
 **Master, Applied Mathematics and Informatics**; Moscow Engineering Physics Institute - Department of Cybernetics
 *Thesis title: Data Synchronization between Backend and Mobile Phone via SyncML Protocol*
-
-<!-- ### Footer
-
-Last updated: Mar 2019 -->
