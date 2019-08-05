@@ -6,8 +6,7 @@ title: Mikhail Sidorkevich's CV
 Software Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">michael.sidorkevich@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="michael.sidorkevich@gmail.com">michael.sidorkevich@gmail.com</a>
 </div>
 
 
