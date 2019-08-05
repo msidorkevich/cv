@@ -13,8 +13,22 @@ Software Engineer.
 
 ## Experience
 
-**May 2015 - current time: Deutsche Bank, Lead Java
-Developer**
+**May 2019 - Current Time: Alibaba, Senior Engineer**
+
+Aliexpress Russia Development
+
+*Key Projects*:
+- TMall SEO Optimization
+- TMall Competitor Analysis
+- Aliexpress - VK Integration
+
+*Key Achievments*:
+- Started "Kotlin Coroutines" lectures in Aliexpress Russia Office - 1 lecture passed
+
+*Technologies*:
+Core Java, Kotlin, Spring Boot, JUnit, MySQL, RocketMQ, Maven, GIT
+
+**May 2015 - May 2019: Deutsche Bank, Lead Java Developer**
 
 Development of Real-time FX Derivatives Risk Management System
 
@@ -28,7 +42,7 @@ Development of Real-time FX Derivatives Risk Management System
 - Release planning and post-release checks
 - Reduce tech debt
 
-*Key achievements:*
+*Key Achievements:*
 - All features which I developed were successfully delivered to PROD
 - Used [async-profiler] (https://github.com/jvm-profiling-tools/async-profiler) to fix memory allocation issues
 - Started migration to OpenJDK 11. Our product was first in the Deutsche Bank which used OpenJDK 11 in PROD
