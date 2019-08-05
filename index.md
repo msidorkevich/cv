@@ -7,7 +7,8 @@ Software Engineer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">michael.sidorkevich@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://msidorkevich.github.io/cv/">CV</a>
+| Cell Phone: +7 916 1635986
 </div>
 
 
@@ -44,12 +45,13 @@ Development of Real-time FX Derivatives Risk Management System
 
 *Key Achievements:*
 - All features which I developed were successfully delivered to PROD
-- Used [async-profiler] (https://github.com/jvm-profiling-tools/async-profiler) to fix memory allocation issues
+- Used <a href="https://github.com/jvm-profiling-tools/async-profiler">async-profiler</a> to fix memory allocation issues
 - Started migration to OpenJDK 11. Our product was first in the Deutsche Bank which used OpenJDK 11 in PROD
 - Engaged colleagues to start using more modern language - Kotlin
 
 *Technologies:*
 Core Java, Spring, JUnit, MongoDB, Maven, Git, OracleDB
+
 
 **May 2012 - May 2015: Deutsche Bank, Tech Lead**
 
@@ -65,6 +67,7 @@ Developing a service for OLTP database with rich Java API (queries, real time up
 *Technologies:*
 Core Java, Spring, JUnit4, Mockito, Maven, Tibco EMS, SQL, PL/SQL, OracleDB, Git
 
+
 **Feb 2010 – Apr 2012: Luxoft, Senior Java Developer**
 
 Work in Global Financial Foreign Exchange Trade Processing department in Deutsche Bank.
@@ -77,6 +80,7 @@ Work in Global Financial Foreign Exchange Trade Processing department in Deutsch
 *Technologies:*
 Core Java, SQL, PL/SQL, OracleDB, Perforce, XSLT, JUnit 4, Maven, Ant, Apache Tomcat, Spring, Mockito, JMS
 
+
 **Dec 2008 - Jan 2010: Rusfinance Bank, Societe Generale group, Java Developer**
 
 *Responsibilities:*
@@ -86,6 +90,7 @@ Core Java, SQL, PL/SQL, OracleDB, Perforce, XSLT, JUnit 4, Maven, Ant, Apache To
 *Technologies:*
 EJB3, Struts 1, JSP, JDBC, OracleDB, OC4J, SVN
 
+
 **Aug 2007 - Nov 2008: Vigour, Java Developer**
 
 *Responsibilities:*
@@ -93,6 +98,7 @@ EJB3, Struts 1, JSP, JDBC, OracleDB, OC4J, SVN
 
 *Technologies and instruments:*
 Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
+
 
 ## Technical Experience
 
@@ -105,13 +111,11 @@ Core Java, JSP, CVS, JUnit 3,4, XML, SAX, DOM, JAXB, Apache Tomcat, SQL
 - **Messanging** - have moderate experience with TibcoEMS, basic - with ActiveMQ
 - **Version control systems** - currently working with GIT, used P4, SVN, CVS in previous projects
 
+
 ## Education
 
 2003 – 2009
 
-**Master, Applied Mathematics and Informatics**; Moscow Engineering Physics Institute - Department of Cybernetics
-*Thesis title: Data Synchronization between Backend and Mobile Phone via SyncML Protocol*
+**Master, Applied Mathematics and Informatics** - Moscow Engineering Physics Institute - Department of Cybernetics
 
-<!-- ### Footer
-
-Last updated: Mar 2019 -->
+**Thesis title** - Data Synchronization between Backend and Mobile Phone via SyncML Protocol*
