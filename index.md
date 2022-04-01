@@ -12,7 +12,22 @@ Software Engineer.
 
 ## Experience
 
-**May 2019 - Current Time: Alibaba, Senior Engineer**
+**Sep 2019 - Current Time: Revolut, Senior Engineer**
+
+Development of in-house processing platform for Card Payments
+
+*Responsibilities:*
+- New features development
+- Performing design review
+- Performing code review
+- Working with product owner to create the tasks to develop
+- Production support
+- Interviews with candidates
+
+*Technologies:*
+Core Java, JUnit, PostgreSQL, Gradle, Git
+
+**May 2019 - Sep 2019: Alibaba, Senior Engineer**
 
 Aliexpress Russia Development
 
