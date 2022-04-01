@@ -12,7 +12,7 @@ Software Engineer.
 
 ## Experience
 
-**Sep 2019 - Current Time: Revolut, Senior Engineer**
+**Oct 2019 - Current Time: Revolut, Senior Engineer**
 
 Development of in-house processing platform for Card Payments
 
